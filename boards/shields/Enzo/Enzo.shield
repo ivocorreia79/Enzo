@@ -4,5 +4,5 @@
 # Config name will be reused in Kconfig.defconfig
 
 config KBNAME
-    def_bool $(shields_list_contains,kbName)
+    def_bool $(shields_list_contains,Enzo)
  
