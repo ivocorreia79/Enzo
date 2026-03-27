@@ -137,7 +137,7 @@
         combo_0124 {
             timeout-ms = <150>;
             key-positions = <0 1 2 4>;
-            bindings = <&sk LSFT>;
+            bindings = <&sk LSHFT>;
         };
                 
 //        combo_0134 {
