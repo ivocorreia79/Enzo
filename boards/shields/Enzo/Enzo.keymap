@@ -1,6 +1,9 @@
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
 
+#define ONE   1
+#define TWO   2
+#define THREE 3
 
 / {  
     combos {
