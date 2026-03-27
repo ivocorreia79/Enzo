@@ -1,5 +1,11 @@
 name: Build ZMK firmware
+
 on: [push, pull_request, workflow_dispatch]
+
+# ✅ PERMISSÕES NECESSÁRIAS (IMPORTANTE)
+permissions:
+  actions: read
+  contents: read
 
 jobs:
   build:
